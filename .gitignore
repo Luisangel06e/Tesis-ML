@@ -1,0 +1,18 @@
+# Dataset de imágenes histopatológicas
+BreaKHis_v1/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credenciales y configuración privada
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+*.tmp
+
+resultados/
